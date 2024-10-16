@@ -95,6 +95,31 @@ Start node: ./start_dill_node.sh
 
 Stop node: ./stop_dill_node.sh
 
+## Automating Dill Node health checks
+
+![image](https://github.com/user-attachments/assets/c0472558-4b75-4683-8d8a-2f7209f334d2)
+
+Use our script to keep a node up and running.
+
+The script checks the status every 15 minutes, saving logs to the file node_health_log.txt 
+
+Functionality: 
+
+    1) Start Application
+
+    2) Stop Application
+
+    3) View Logs
+
+    4) Exit
+
+To use the script, paste the text below into the terminal:
+
+```
+curl -sO https://raw.githubusercontent.com/NodeMafia/DillNodeGuide/refs/heads/main/DillCheck.sh && chmod +x DillCheck.sh && ./DillCheck.sh
+```
+The script only works if your Dill directory is located at the path $USER/dill (Example: root/dill). 
+
 # NodeMafia
 EN Telegram: soon..
 RU Telegram: https://t.me/NodeMafia
