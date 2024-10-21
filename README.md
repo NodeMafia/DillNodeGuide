@@ -69,7 +69,8 @@ For the first launch, select 1. Launch a new dill node. After that, generate a n
 Enter the address of your EVM wallet. 
 If you have done everything correctly, you will see these logs:
 
-![image](https://github.com/user-attachments/assets/10ed56e8-9948-4f56-a088-d4ac0ff8ce53)
+![image](https://github.com/user-attachments/assets/bc508466-a5b4-4db2-abbf-6d604754f790)
+
 
 In order for node to start working, we need to stake Dill Tokens. Copy the data of the file deposit_data-*****.json in the dill/validator_keys/ directory and paste it to https://staking.dill.xyz/en/. Click Continue and connect your EVM wallet. Then click the button below and confirm the operation. Congratulations, you're staked your Dill's.Congratulations, you're your Dill's
 
