@@ -1,4 +1,4 @@
-# DIll Alps Incentivized Network
+# DIll Alps Incentivized Network (Stage 2)
 
 ![Alps_](https://github.com/user-attachments/assets/33a4f471-e904-4de1-9440-b5bb3326a172)
 
@@ -19,7 +19,7 @@ To fully participate in the Alps testnet, you must complete the quests on https:
 In order to gain access to the node, do not click Claim on the site immediately if you are going to use the referral system to get activity points. 
 
 
-The rules of getting nodes can be found at https://docs.google.com/document/d/12sYjNaj5BK8Nsna8NIzjjqWYoxqeYkKG-9gpcm5AgLM/edit?tab=t.0#heading=h.g0i8lrk2ooq4 . 
+The rules(Stage 1) of getting nodes can be found at https://docs.google.com/document/d/12sYjNaj5BK8Nsna8NIzjjqWYoxqeYkKG-9gpcm5AgLM/edit?tab=t.0#heading=h.g0i8lrk2ooq4 . 
 
 
 Claim points only at the end of the phase, which is announced on Dill's Discord Server - https://discord.gg/PzAJGanp .
