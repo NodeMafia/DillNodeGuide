@@ -22,7 +22,7 @@ In order to gain access to the node, do not click Claim on the site immediately 
 The rules(Stage 1) of getting nodes can be found at https://docs.google.com/document/d/12sYjNaj5BK8Nsna8NIzjjqWYoxqeYkKG-9gpcm5AgLM/edit?tab=t.0#heading=h.g0i8lrk2ooq4 . 
 
 
-Claim points only at the end of the phase, which is announced on Dill's Discord Server - https://discord.gg/PzAJGanp .
+Claim points only at the end of the phase, which is announced on Dill's Discord Server - [https://discord.gg/PzAJGanp](https://discord.gg/UPSFTbcmtv) .
 
 ### What's required:
 - Server on Linux
